@@ -62,7 +62,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 probably update because it needs a param to update to and from
 
-4. What is the public folder used for in Rails?
+4. What is the public folder used for in Rails
 
   Your answer:for when we want to post stuff to the public for them to access
 
